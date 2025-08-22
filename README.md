@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Gurupada Nayak Banner" />
+  <img src="Banner1.png" alt="Gurupada Nayak Banner" />
 </p>
 
 # Hi there 👋, I'm Gurupada Nayak  
