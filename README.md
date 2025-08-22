@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Gurupada Nayak Banner" />
+</p>
+
 # Hi there 👋, I'm Gurupada Nayak  
 
 🎯 **Aspiring Java Backend Developer | MCA Student**  
