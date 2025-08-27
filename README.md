@@ -38,7 +38,7 @@ I am passionate about learning **Core Java, JDBC, Data Structures, and Backend D
 ---
 
 ## 📫 Connect with Me
-- https://www.linkedin.com/in/gurupada-nayak-71724b25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Linkedin: www.linkedin.com/in/gurupada-nayak-71724b25b
 - 📧 Email: gurupadpnayak@gmail.com
 
 ---
