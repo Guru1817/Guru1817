@@ -100,8 +100,12 @@ Java + Maven application that reads smart commands from Excel files and synthesi
 
 <div align="center">
 
-![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guru1817&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=05060f&title_color=22d3ee&text_color=e8eaf2&icon_color=7c3aed)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Guru1817&layout=compact&theme=midnight-purple&hide_border=true&bg_color=05060f&title_color=22d3ee&text_color=e8eaf2)
+<a href="https://github.com/Guru1817">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guru1817&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Guru's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guru1817&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</a>
+
+![Profile views](https://komarev.com/ghpvc/?username=Guru1817&label=Profile%20views&color=22d3ee&style=flat)
 
 </div>
 
