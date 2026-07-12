@@ -27,6 +27,13 @@ I'm a Java developer with a passion for building secure, scalable backend system
 
 ## 🚀 Featured Projects
 
+### 🎵 [Vidyapeeth — Multi-Tenant Exam Platform for Coaching Institutes](https://vidyapeeth.in)
+> *Shopify for coaching centers.*
+
+One codebase and one database serve many coaching institutes (tenants). Each institute gets its own branded portal where students log in, read study material, and take auto-graded mock tests with per-batch leaderboards — while being completely isolated from every other institute's data
+
+`Spring Boot` `React` `SaaS` `Edtach` `REST` `JWT` `multi-tenant`
+
 ### 🎵 [Suraag — Offline Music Streaming](https://suraagmusic.in)
 > *Music that never loses you.*
 
