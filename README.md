@@ -61,7 +61,7 @@ Backend-focused apps I've designed, built, and shipped end-to-end.
 <br/><br/>
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./trophies.svg?v=2" alt="Trophies" width="95%"/>
+<img src="./trophies.svg?v=3" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
