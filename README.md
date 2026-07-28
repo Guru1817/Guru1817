@@ -11,34 +11,24 @@
 
 <br/>
 
-<table align="center" border="0" width="100%">
+<table align="center" border="0">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td align="center" valign="top">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./lanyard.svg?v=1" alt="Gurupada Nayak ID badge" width="300"/>
+<img src="./lanyard.svg?v=1" alt="Gurupada Nayak ID badge" width="300" height="457"/>
 
 </td>
-<td width="50%" valign="middle">
+<td align="center" valign="top">
 
-### 🚀 Things I've Built
-
-Backend-focused apps I've designed, built, and shipped end-to-end.
-
-| 🧩 Project | 💻 Tech | 🔗 |
-|:---|:---:|:---:|
-| [🎓 Vidyapeeth — Multi-Tenant Exam Platform](https://vidyapeeth.in) | `Spring Boot` `React` `PostgreSQL` | Live |
-| [🎵 Suraag — Offline Music Streaming](https://suraagmusic.in) | `Kotlin` `Spring Boot` `AES` | Live |
-| [🎯 CBCT Allocation System](https://github.com/Guru1817/cbct_allocation) | `Java` `JPA` `MySQL` | Repo |
-| [🔊 Text-to-Speech Engine](https://github.com/Guru1817/Text-to-Speech-App) | `Java` `GCP TTS` `Maven` | Repo |
-
-<br/>
-
-> 💗 *"Code. Coffee. Repeat. Turning complex problems into clean, well-architected code."*
+<!-- 🚀 Things I've Built — SVG card, same size as the lanyard -->
+<img src="./projects-card.svg?v=1" alt="Things I've Built — Vidyapeeth, Suraag, CBCT, Text-to-Speech" width="300" height="457"/>
 
 </td>
 </tr>
 </table>
+
+<sub>🔗 [Vidyapeeth](https://vidyapeeth.in) · [Suraag](https://suraagmusic.in) · [CBCT Allocation](https://github.com/Guru1817/cbct_allocation) · [Text-to-Speech](https://github.com/Guru1817/Text-to-Speech-App)</sub>
 
 <br/>
 
