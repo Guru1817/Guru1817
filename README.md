@@ -2,26 +2,28 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img src="./banner.svg?v=1" alt="Gurupada Nayak — Java Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
+  <img src="./banner.svg?v=2" alt="Gurupada Nayak — Java Developer" width="100%"/>
 </picture>
 
 </div>
 
 <br/>
 
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./lanyard.svg?v=1" alt="Gurupada Nayak ID badge" width="330"/>
+<img src="./lanyard.svg?v=1" alt="Gurupada Nayak ID badge" width="300"/>
 
 </td>
-<td width="62%" valign="middle">
+<td width="50%" valign="middle">
 
 ### 🚀 Things I've Built
+
+Backend-focused apps I've designed, built, and shipped end-to-end.
 
 | 🧩 Project | 💻 Tech | 🔗 |
 |:---|:---:|:---:|
@@ -59,7 +61,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./trophies.svg?v=1" alt="Trophies" width="95%"/>
+<img src="./trophies.svg?v=2" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
